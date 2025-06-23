@@ -15,6 +15,7 @@ E-commerce churn or reordering prediction pipelines
 🔧 Tools & Technologies Used
 
 |Component|Purpose|
+| -----:| -----:|
 |Pub/Sub|Ingest real-time order events (like Kafka)|
 |Apache Beam|Code framework for stream processing|
 |Dataflow|Fully-managed runner for Apache Beam|
