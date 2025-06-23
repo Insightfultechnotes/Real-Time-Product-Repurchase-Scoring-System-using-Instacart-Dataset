@@ -21,4 +21,4 @@ E-commerce churn or reordering prediction pipelines
 |Dataflow|Fully-managed runner for Apache Beam|
 |BigQuery|Stores prediction results; supports analysis|
 |Python|Language used for both simulation and pipeline|
-Looker Studio (optional)	Visualize predictions in real time
+|Looker Studio|Visualize predictions in real time|
